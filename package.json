@@ -1,0 +1,22 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.3.0",
+    "jest": "^25.2.7"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "axios": "^0.19.2"
+  }
+}

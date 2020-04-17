@@ -1,0 +1,8 @@
+#Regras para o carrinho de compras
+
+Regra:
+    ✔ Se houver 3 ou mais produtos, aplicar 5% de desconto @done(20-04-16 22:50)
+    ✔ Deve ser possível limpar o carrinho de compras @done(20-04-16 23:47)
+    ✔ Se o valor da compra ultrapassar 299 reais, aplicar 10% de desconto @done(20-04-16 23:11)
+    ✔ O total do carrinho é a quantidade de produtos multiplicado pelo preço @done(20-04-16 23:47)
+    ✔ Deve ser possível remover um produto do carrinho @done(20-04-16 23:53)

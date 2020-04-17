@@ -1,0 +1,6 @@
+# Regras de negócio para estudantes
+
+Regras:
+    ✔ Devemos conseguir somar as notas dos alunos @done(20-04-17 11:50)
+    ✔ Se caso uma nota for zero, a soma deve retornar zero @done(20-04-17 11:50)
+    ✔ Caso o aluno tenha mais de cinco notas a soma deve ser multiplicada por dois @done(20-04-17 11:50)
